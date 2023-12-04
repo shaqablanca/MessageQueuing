@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "REXzRa31zq4+OgIN5h4Wxm0wVB5BK2J2N7pUe1HpEfv+pwlpaava8KQs7EyLuwHY+l0zd/6HCcfX4PBkEQZ5Kw==",
+  "success": true,
+  "projectFilePath": "/Users/mac/Desktop/Projects/CSharp/MessageQueuing/Receive/Receive.csproj",
+  "expectedPackageFiles": [
+    "/Users/mac/.nuget/packages/rabbitmq.client/6.7.0/rabbitmq.client.6.7.0.nupkg.sha512",
+    "/Users/mac/.nuget/packages/system.memory/4.5.5/system.memory.4.5.5.nupkg.sha512",
+    "/Users/mac/.nuget/packages/system.threading.channels/7.0.0/system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

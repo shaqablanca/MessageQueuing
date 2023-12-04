@@ -1,0 +1,17 @@
+/Users/mac/Desktop/Projects/CSharp/MessageQueuing/Send/obj/Debug/net7.0/Send.csproj.AssemblyReference.cache
+/Users/mac/Desktop/Projects/CSharp/MessageQueuing/Send/obj/Debug/net7.0/Send.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Desktop/Projects/CSharp/MessageQueuing/Send/obj/Debug/net7.0/Send.AssemblyInfoInputs.cache
+/Users/mac/Desktop/Projects/CSharp/MessageQueuing/Send/obj/Debug/net7.0/Send.AssemblyInfo.cs
+/Users/mac/Desktop/Projects/CSharp/MessageQueuing/Send/obj/Debug/net7.0/Send.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/Projects/CSharp/MessageQueuing/Send/bin/Debug/net7.0/Send
+/Users/mac/Desktop/Projects/CSharp/MessageQueuing/Send/bin/Debug/net7.0/Send.deps.json
+/Users/mac/Desktop/Projects/CSharp/MessageQueuing/Send/bin/Debug/net7.0/Send.runtimeconfig.json
+/Users/mac/Desktop/Projects/CSharp/MessageQueuing/Send/bin/Debug/net7.0/Send.dll
+/Users/mac/Desktop/Projects/CSharp/MessageQueuing/Send/bin/Debug/net7.0/Send.pdb
+/Users/mac/Desktop/Projects/CSharp/MessageQueuing/Send/bin/Debug/net7.0/RabbitMQ.Client.dll
+/Users/mac/Desktop/Projects/CSharp/MessageQueuing/Send/obj/Debug/net7.0/Send.csproj.CopyComplete
+/Users/mac/Desktop/Projects/CSharp/MessageQueuing/Send/obj/Debug/net7.0/Send.dll
+/Users/mac/Desktop/Projects/CSharp/MessageQueuing/Send/obj/Debug/net7.0/refint/Send.dll
+/Users/mac/Desktop/Projects/CSharp/MessageQueuing/Send/obj/Debug/net7.0/Send.pdb
+/Users/mac/Desktop/Projects/CSharp/MessageQueuing/Send/obj/Debug/net7.0/Send.genruntimeconfig.cache
+/Users/mac/Desktop/Projects/CSharp/MessageQueuing/Send/obj/Debug/net7.0/ref/Send.dll
